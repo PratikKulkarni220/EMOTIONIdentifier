@@ -1,0 +1,29 @@
+
+
+.camera_div{
+    width:300px;
+    height: 450px;
+    border-width: 3px;
+    border-color: violet;
+    border-radius: 23px;
+    border-style: groove;
+}
+.snap_div{
+    width:300px;
+    height: 450px;
+    border-width: 3px;
+    border-color: violet;
+    border-radius: 23px;
+    border-style: groove;
+}
+
+.button{
+    background: sandybrown;
+    width: 70px;
+    height: 40px;
+    margin: 40px;
+}
+body{
+    background: powderblue;
+}
+
